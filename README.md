@@ -37,7 +37,7 @@ I'm a **computer science graduate student at Northeastern University**, transiti
 ---
 
 ### 📫 **Let's Connect!**
-- 💼 [LinkedIn](https://www.linkedin.com/in/princewill-umeh)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/princewillumeh)  
 - 📝 [Portfolio](#) *(Coming Soon!)*  
 - 📧 **Email:** [Your Email]  
 
